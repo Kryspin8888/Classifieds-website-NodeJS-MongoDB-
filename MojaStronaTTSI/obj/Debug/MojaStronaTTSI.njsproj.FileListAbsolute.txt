@@ -1,0 +1,3 @@
+D:\Studia\Strony internetowe\MojaStronaTTSI\MojaStronaTTSI\obj\Debug\MojaStronaTTSI.njsprojAssemblyReference.cache
+D:\Studia\Strony internetowe\MojaStronaTTSI\MojaStronaTTSI\obj\Debug\MojaStronaTTSI.njsproj.CoreCompileInputs.cache
+D:\Studia\Strony internetowe\MojaStronaTTSI\MojaStronaTTSI\bin\Microsoft.NodejsTools.WebRole.dll

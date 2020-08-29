@@ -1,0 +1,48 @@
+.sticky1 {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:999;
+}
+
+    .sticky1 + .container {
+        padding-top: 74px;
+        z-index:99;
+    }
+
+#menu {
+    background-color: #d9534f;
+}
+
+#menuword{
+    color: white;
+}
+
+.button-color {
+    background-color: #d9534f;
+}
+
+.cartview {
+    margin: 0 auto;
+    width: 33%;
+    position: relative;
+}
+
+#a1{
+    color:white;
+}
+#a2{
+    color: white;
+    width: 400px
+}
+
+#a3 {
+    color: white;
+}
+
+div #a2 {
+    margin: 0 auto;
+    margin-left: 10%;
+    font-size: 32px;
+    position:relative;
+}
